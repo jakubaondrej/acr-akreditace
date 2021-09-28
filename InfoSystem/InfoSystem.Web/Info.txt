@@ -1,0 +1,1079 @@
+3.3.2020 19:58:42: connection string to Database = ''
+3.3.2020 19:58:42: Mediadeleg database in use
+7.3.2020 14:42:20: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.3.2020 14:42:20: Mediadeleg database in use
+7.3.2020 14:42:23: Update database..
+7.3.2020 14:42:26: Update database Successfully DONE
+7.3.2020 14:56:52: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.3.2020 14:56:52: Mediadeleg database in use
+7.3.2020 14:56:54: Update database..
+7.3.2020 14:56:55: Update database Successfully DONE
+7.3.2020 15:28:28: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.3.2020 15:28:28: Mediadeleg database in use
+7.3.2020 15:28:30: Update database..
+7.3.2020 15:28:32: Update database Successfully DONE
+7.3.2020 16:19:14: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.3.2020 16:19:14: Mediadeleg database in use
+7.3.2020 16:19:15: Update database..
+7.3.2020 16:19:18: Update database Successfully DONE
+7.3.2020 16:33:08: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.3.2020 16:33:08: Mediadeleg database in use
+7.3.2020 16:33:10: Update database..
+7.3.2020 16:33:12: Update database Successfully DONE
+7.3.2020 16:45:54: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.3.2020 16:45:54: Mediadeleg database in use
+7.3.2020 16:45:55: Update database..
+7.3.2020 16:45:57: Update database Successfully DONE
+7.3.2020 16:48:32: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.3.2020 16:48:32: Mediadeleg database in use
+7.3.2020 16:48:33: Update database..
+7.3.2020 16:48:35: Update database Successfully DONE
+7.3.2020 16:50:55: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.3.2020 16:50:55: Mediadeleg database in use
+7.3.2020 16:50:59: Update database..
+7.3.2020 16:51:00: Update database Successfully DONE
+8.3.2020 15:37:29: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 15:37:29: Mediadeleg database in use
+8.3.2020 15:37:33: Update database..
+8.3.2020 15:37:38: Update database Successfully DONE
+8.3.2020 15:39:29: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 15:39:30: Mediadeleg database in use
+8.3.2020 15:39:31: Update database..
+8.3.2020 15:39:32: Update database Successfully DONE
+8.3.2020 15:44:45: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 15:44:45: Mediadeleg database in use
+8.3.2020 15:44:47: Update database..
+8.3.2020 15:44:50: Update database Successfully DONE
+8.3.2020 15:46:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 15:46:21: Mediadeleg database in use
+8.3.2020 15:46:23: Update database..
+8.3.2020 15:46:25: Update database Successfully DONE
+8.3.2020 15:47:04: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 15:47:04: Mediadeleg database in use
+8.3.2020 15:47:05: Update database..
+8.3.2020 15:47:07: Update database Successfully DONE
+8.3.2020 16:56:05: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 16:56:05: Mediadeleg database in use
+8.3.2020 16:56:07: Update database..
+8.3.2020 16:56:11: Update database Successfully DONE
+8.3.2020 17:01:13: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:01:13: Mediadeleg database in use
+8.3.2020 17:01:14: Update database..
+8.3.2020 17:01:15: Update database Successfully DONE
+8.3.2020 17:03:57: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:03:57: Mediadeleg database in use
+8.3.2020 17:03:58: Update database..
+8.3.2020 17:03:59: Update database Successfully DONE
+8.3.2020 17:06:26: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:06:26: Mediadeleg database in use
+8.3.2020 17:06:27: Update database..
+8.3.2020 17:06:29: Update database Successfully DONE
+8.3.2020 17:11:03: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:11:03: Mediadeleg database in use
+8.3.2020 17:11:05: Update database..
+8.3.2020 17:11:06: Update database Successfully DONE
+8.3.2020 17:12:38: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:12:38: Mediadeleg database in use
+8.3.2020 17:12:39: Update database..
+8.3.2020 17:12:41: Update database Successfully DONE
+8.3.2020 17:20:13: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:20:13: Mediadeleg database in use
+8.3.2020 17:20:14: Update database..
+8.3.2020 17:20:17: Update database Successfully DONE
+8.3.2020 17:21:52: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:21:52: Mediadeleg database in use
+8.3.2020 17:21:53: Update database..
+8.3.2020 17:21:55: Update database Successfully DONE
+8.3.2020 17:23:58: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:23:58: Mediadeleg database in use
+8.3.2020 17:23:59: Update database..
+8.3.2020 17:24:00: Update database Successfully DONE
+8.3.2020 17:25:45: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:25:45: Mediadeleg database in use
+8.3.2020 17:25:48: Update database..
+8.3.2020 17:25:50: Update database Successfully DONE
+8.3.2020 17:28:57: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:28:57: Mediadeleg database in use
+8.3.2020 17:28:59: Update database..
+8.3.2020 17:29:00: Update database Successfully DONE
+8.3.2020 17:37:17: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:37:17: Mediadeleg database in use
+8.3.2020 17:37:19: Update database..
+8.3.2020 17:37:22: Update database Successfully DONE
+8.3.2020 17:40:10: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:40:10: Mediadeleg database in use
+8.3.2020 17:40:12: Update database..
+8.3.2020 17:40:14: Update database Successfully DONE
+8.3.2020 17:44:49: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:44:49: Mediadeleg database in use
+8.3.2020 17:44:51: Update database..
+8.3.2020 17:44:52: Update database Successfully DONE
+8.3.2020 17:48:11: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:48:11: Mediadeleg database in use
+8.3.2020 17:48:13: Update database..
+8.3.2020 17:48:16: Update database Successfully DONE
+8.3.2020 17:50:37: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:50:37: Mediadeleg database in use
+8.3.2020 17:50:39: Update database..
+8.3.2020 17:50:40: Update database Successfully DONE
+8.3.2020 17:54:19: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:54:19: Mediadeleg database in use
+8.3.2020 17:54:21: Update database..
+8.3.2020 17:54:24: Update database Successfully DONE
+8.3.2020 17:57:33: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 17:57:33: Mediadeleg database in use
+8.3.2020 17:57:36: Update database..
+8.3.2020 17:57:39: Update database Successfully DONE
+8.3.2020 18:18:31: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:18:31: Mediadeleg database in use
+8.3.2020 18:18:32: Update database..
+8.3.2020 18:18:34: Update database Successfully DONE
+8.3.2020 18:20:47: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:20:47: Mediadeleg database in use
+8.3.2020 18:20:49: Update database..
+8.3.2020 18:20:50: Update database Successfully DONE
+8.3.2020 18:34:53: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:34:53: Mediadeleg database in use
+8.3.2020 18:34:54: Update database..
+8.3.2020 18:34:57: Update database Successfully DONE
+8.3.2020 18:35:57: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:35:57: Mediadeleg database in use
+8.3.2020 18:35:58: Update database..
+8.3.2020 18:35:59: Update database Successfully DONE
+8.3.2020 18:39:26: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:39:26: Mediadeleg database in use
+8.3.2020 18:39:27: Update database..
+8.3.2020 18:39:28: Update database Successfully DONE
+8.3.2020 18:43:59: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:43:59: Mediadeleg database in use
+8.3.2020 18:44:00: Update database..
+8.3.2020 18:44:01: Update database Successfully DONE
+8.3.2020 18:46:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:46:21: Mediadeleg database in use
+8.3.2020 18:46:23: Update database..
+8.3.2020 18:46:24: Update database Successfully DONE
+8.3.2020 18:48:02: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:48:02: Mediadeleg database in use
+8.3.2020 18:48:04: Update database..
+8.3.2020 18:48:07: Update database Successfully DONE
+8.3.2020 18:52:11: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:52:11: Mediadeleg database in use
+8.3.2020 18:52:13: Update database..
+8.3.2020 18:52:14: Update database Successfully DONE
+8.3.2020 18:56:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:56:12: Mediadeleg database in use
+8.3.2020 18:56:14: Update database..
+8.3.2020 18:56:15: Update database Successfully DONE
+8.3.2020 18:59:22: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 18:59:22: Mediadeleg database in use
+8.3.2020 18:59:24: Update database..
+8.3.2020 18:59:27: Update database Successfully DONE
+8.3.2020 19:02:13: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 19:02:13: Mediadeleg database in use
+8.3.2020 19:02:14: Update database..
+8.3.2020 19:02:15: Update database Successfully DONE
+8.3.2020 19:04:01: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 19:04:01: Mediadeleg database in use
+8.3.2020 19:04:02: Update database..
+8.3.2020 19:04:03: Update database Successfully DONE
+8.3.2020 19:04:59: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.3.2020 19:04:59: Mediadeleg database in use
+8.3.2020 19:05:00: Update database..
+8.3.2020 19:05:02: Update database Successfully DONE
+9.3.2020 15:59:43: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 15:59:43: Mediadeleg database in use
+9.3.2020 15:59:45: Update database..
+9.3.2020 15:59:49: Update database Successfully DONE
+9.3.2020 16:12:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 16:12:12: Mediadeleg database in use
+9.3.2020 16:12:15: Update database..
+9.3.2020 16:12:19: Update database Successfully DONE
+9.3.2020 16:16:38: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 16:16:38: Mediadeleg database in use
+9.3.2020 16:16:39: Update database..
+9.3.2020 16:16:41: Update database Successfully DONE
+9.3.2020 16:24:36: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 16:24:36: Mediadeleg database in use
+9.3.2020 16:24:37: Update database..
+9.3.2020 16:24:38: Update database Successfully DONE
+9.3.2020 16:36:23: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 16:36:23: Mediadeleg database in use
+9.3.2020 16:36:25: Update database..
+9.3.2020 16:36:30: Update database Successfully DONE
+9.3.2020 16:42:49: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 16:42:49: Mediadeleg database in use
+9.3.2020 16:42:51: Update database..
+9.3.2020 16:42:55: Update database Successfully DONE
+9.3.2020 16:51:30: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 16:51:30: Mediadeleg database in use
+9.3.2020 16:51:32: Update database..
+9.3.2020 16:51:33: Update database Successfully DONE
+9.3.2020 17:08:04: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 17:08:04: Mediadeleg database in use
+9.3.2020 17:08:06: Update database..
+9.3.2020 17:08:10: Update database Successfully DONE
+9.3.2020 17:13:27: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 17:13:27: Mediadeleg database in use
+9.3.2020 17:13:28: Update database..
+9.3.2020 17:13:30: Update database Successfully DONE
+9.3.2020 17:27:34: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 17:27:34: Mediadeleg database in use
+9.3.2020 17:27:37: Update database..
+9.3.2020 17:27:42: Update database Successfully DONE
+9.3.2020 18:18:06: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 18:18:06: Mediadeleg database in use
+9.3.2020 18:18:07: Update database..
+9.3.2020 18:18:10: Update database Successfully DONE
+9.3.2020 18:22:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 18:22:12: Mediadeleg database in use
+9.3.2020 18:22:15: Update database..
+9.3.2020 18:22:18: Update database Successfully DONE
+9.3.2020 18:25:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 18:25:00: Mediadeleg database in use
+9.3.2020 18:25:02: Update database..
+9.3.2020 18:25:03: Update database Successfully DONE
+9.3.2020 18:29:45: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 18:29:45: Mediadeleg database in use
+9.3.2020 18:29:47: Update database..
+9.3.2020 18:29:48: Update database Successfully DONE
+9.3.2020 18:38:30: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 18:38:30: Mediadeleg database in use
+9.3.2020 18:38:32: Update database..
+9.3.2020 18:38:34: Update database Successfully DONE
+9.3.2020 18:40:28: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 18:40:28: Mediadeleg database in use
+9.3.2020 18:40:29: Update database..
+9.3.2020 18:40:31: Update database Successfully DONE
+9.3.2020 18:43:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 18:43:00: Mediadeleg database in use
+9.3.2020 18:43:01: Update database..
+9.3.2020 18:43:03: Update database Successfully DONE
+9.3.2020 19:13:22: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 19:13:22: Mediadeleg database in use
+9.3.2020 19:13:23: Update database..
+9.3.2020 19:13:26: Update database Successfully DONE
+9.3.2020 19:28:39: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 19:28:39: Mediadeleg database in use
+9.3.2020 19:28:40: Update database..
+9.3.2020 19:28:44: Update database Successfully DONE
+9.3.2020 19:42:17: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 19:42:17: Mediadeleg database in use
+9.3.2020 19:42:20: Update database..
+9.3.2020 19:42:22: Update database Successfully DONE
+9.3.2020 19:53:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 19:53:12: Mediadeleg database in use
+9.3.2020 19:53:14: Update database..
+9.3.2020 19:53:16: Update database Successfully DONE
+9.3.2020 19:58:43: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 19:58:43: Mediadeleg database in use
+9.3.2020 19:58:45: Update database..
+9.3.2020 19:58:47: Update database Successfully DONE
+9.3.2020 20:01:05: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 20:01:05: Mediadeleg database in use
+9.3.2020 20:01:06: Update database..
+9.3.2020 20:01:08: Update database Successfully DONE
+9.3.2020 20:16:46: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 20:16:46: Mediadeleg database in use
+9.3.2020 20:16:47: Update database..
+9.3.2020 20:16:50: Update database Successfully DONE
+9.3.2020 20:19:46: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 20:19:46: Mediadeleg database in use
+9.3.2020 20:19:49: Update database..
+9.3.2020 20:19:52: Update database Successfully DONE
+9.3.2020 20:22:32: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 20:22:32: Mediadeleg database in use
+9.3.2020 20:22:34: Update database..
+9.3.2020 20:22:35: Update database Successfully DONE
+9.3.2020 20:29:13: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.3.2020 20:29:13: Mediadeleg database in use
+9.3.2020 20:29:14: Update database..
+9.3.2020 20:29:15: Update database Successfully DONE
+29.5.2020 19:01:38: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+29.5.2020 19:01:38: Mediadeleg database in use
+29.5.2020 19:01:41: Update database..
+29.5.2020 19:01:45: Update database Successfully DONE
+29.5.2020 20:08:29: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+29.5.2020 20:08:29: Mediadeleg database in use
+29.5.2020 20:08:32: Update database..
+29.5.2020 20:08:36: Update database Successfully DONE
+29.5.2020 20:10:19: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+29.5.2020 20:10:20: Mediadeleg database in use
+29.5.2020 20:10:22: Update database..
+29.5.2020 20:10:24: Update database Successfully DONE
+29.5.2020 20:21:26: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+29.5.2020 20:21:26: Mediadeleg database in use
+29.5.2020 20:21:27: Update database..
+29.5.2020 20:21:29: Update database Successfully DONE
+4.6.2020 19:32:54: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 19:32:54: Mediadeleg database in use
+4.6.2020 19:32:56: Update database..
+4.6.2020 19:33:01: Update database Successfully DONE
+4.6.2020 19:35:25: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 19:35:25: Mediadeleg database in use
+4.6.2020 19:35:27: Update database..
+4.6.2020 19:35:28: Update database Successfully DONE
+4.6.2020 19:41:50: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 19:41:50: Mediadeleg database in use
+4.6.2020 19:41:51: Update database..
+4.6.2020 19:41:52: Update database Successfully DONE
+4.6.2020 19:46:58: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 19:46:58: Mediadeleg database in use
+4.6.2020 19:46:59: Update database..
+4.6.2020 19:47:01: Update database Successfully DONE
+4.6.2020 19:52:13: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 19:52:13: Mediadeleg database in use
+4.6.2020 19:52:14: Update database..
+4.6.2020 19:52:15: Update database Successfully DONE
+4.6.2020 19:56:26: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 19:56:26: Mediadeleg database in use
+4.6.2020 19:56:28: Update database..
+4.6.2020 19:56:29: Update database Successfully DONE
+4.6.2020 19:59:48: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 19:59:48: Mediadeleg database in use
+4.6.2020 19:59:49: Update database..
+4.6.2020 19:59:51: Update database Successfully DONE
+4.6.2020 20:01:17: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:01:17: Mediadeleg database in use
+4.6.2020 20:01:19: Update database..
+4.6.2020 20:01:20: Update database Successfully DONE
+4.6.2020 20:02:54: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:02:54: Mediadeleg database in use
+4.6.2020 20:02:55: Update database..
+4.6.2020 20:02:57: Update database Successfully DONE
+4.6.2020 20:06:20: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:06:20: Mediadeleg database in use
+4.6.2020 20:06:21: Update database..
+4.6.2020 20:06:23: Update database Successfully DONE
+4.6.2020 20:16:31: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:16:31: Mediadeleg database in use
+4.6.2020 20:16:33: Update database..
+4.6.2020 20:16:35: Update database Successfully DONE
+4.6.2020 20:18:59: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:18:59: Mediadeleg database in use
+4.6.2020 20:19:03: Update database..
+4.6.2020 20:19:06: Update database Successfully DONE
+4.6.2020 20:25:05: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:25:05: Mediadeleg database in use
+4.6.2020 20:25:07: Update database..
+4.6.2020 20:25:08: Update database Successfully DONE
+4.6.2020 20:35:49: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:35:49: Mediadeleg database in use
+4.6.2020 20:35:50: Update database..
+4.6.2020 20:35:52: Update database Successfully DONE
+4.6.2020 20:37:37: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:37:37: Mediadeleg database in use
+4.6.2020 20:37:39: Update database..
+4.6.2020 20:37:40: Update database Successfully DONE
+4.6.2020 20:44:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:44:00: Mediadeleg database in use
+4.6.2020 20:44:01: Update database..
+4.6.2020 20:44:04: Update database Successfully DONE
+4.6.2020 20:45:15: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:45:15: Mediadeleg database in use
+4.6.2020 20:45:17: Update database..
+4.6.2020 20:45:19: Update database Successfully DONE
+4.6.2020 20:46:44: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:46:44: Mediadeleg database in use
+4.6.2020 20:46:46: Update database..
+4.6.2020 20:46:47: Update database Successfully DONE
+4.6.2020 20:48:03: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:48:03: Mediadeleg database in use
+4.6.2020 20:48:05: Update database..
+4.6.2020 20:48:07: Update database Successfully DONE
+4.6.2020 20:49:04: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 20:49:04: Mediadeleg database in use
+4.6.2020 20:49:05: Update database..
+4.6.2020 20:49:07: Update database Successfully DONE
+4.6.2020 23:28:53: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 23:28:53: Mediadeleg database in use
+4.6.2020 23:28:56: Update database..
+4.6.2020 23:29:01: Update database Successfully DONE
+4.6.2020 23:35:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 23:35:00: Mediadeleg database in use
+4.6.2020 23:35:02: Update database..
+4.6.2020 23:35:05: Update database Successfully DONE
+4.6.2020 23:40:16: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 23:40:16: Mediadeleg database in use
+4.6.2020 23:40:17: Update database..
+4.6.2020 23:40:18: Update database Successfully DONE
+4.6.2020 23:44:27: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 23:44:27: Mediadeleg database in use
+4.6.2020 23:44:28: Update database..
+4.6.2020 23:44:30: Update database Successfully DONE
+4.6.2020 23:54:39: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+4.6.2020 23:54:39: Mediadeleg database in use
+4.6.2020 23:54:40: Update database..
+4.6.2020 23:54:42: Update database Successfully DONE
+5.6.2020 0:05:43: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:05:43: Mediadeleg database in use
+5.6.2020 0:05:45: Update database..
+5.6.2020 0:05:48: Update database Successfully DONE
+5.6.2020 0:24:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:24:12: Mediadeleg database in use
+5.6.2020 0:24:14: Update database..
+5.6.2020 0:24:17: Update database Successfully DONE
+5.6.2020 0:29:15: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:29:15: Mediadeleg database in use
+5.6.2020 0:29:17: Update database..
+5.6.2020 0:29:19: Update database Successfully DONE
+5.6.2020 0:36:18: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:36:18: Mediadeleg database in use
+5.6.2020 0:36:20: Update database..
+5.6.2020 0:36:21: Update database Successfully DONE
+5.6.2020 0:39:57: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:39:57: Mediadeleg database in use
+5.6.2020 0:39:58: Update database..
+5.6.2020 0:40:00: Update database Successfully DONE
+5.6.2020 0:41:08: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:41:08: Mediadeleg database in use
+5.6.2020 0:41:09: Update database..
+5.6.2020 0:41:11: Update database Successfully DONE
+5.6.2020 0:44:14: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:44:14: Mediadeleg database in use
+5.6.2020 0:44:15: Update database..
+5.6.2020 0:44:17: Update database Successfully DONE
+5.6.2020 0:47:19: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:47:19: Mediadeleg database in use
+5.6.2020 0:47:50: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:47:50: Mediadeleg database in use
+5.6.2020 0:47:51: Update database..
+5.6.2020 0:47:52: Update database Successfully DONE
+5.6.2020 0:49:46: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+5.6.2020 0:49:46: Mediadeleg database in use
+5.6.2020 0:49:47: Update database..
+5.6.2020 0:49:48: Update database Successfully DONE
+23.6.2020 22:46:13: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+23.6.2020 22:46:14: Mediadeleg database in use
+23.6.2020 22:46:15: Update database..
+23.6.2020 22:46:20: Update database Successfully DONE
+23.6.2020 22:50:23: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+23.6.2020 22:50:23: Mediadeleg database in use
+23.6.2020 22:50:24: Update database..
+23.6.2020 22:50:26: Update database Successfully DONE
+23.6.2020 22:52:52: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+23.6.2020 22:52:52: Mediadeleg database in use
+23.6.2020 22:52:53: Update database..
+23.6.2020 22:52:55: Update database Successfully DONE
+24.6.2020 13:18:56: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 13:18:56: Mediadeleg database in use
+24.6.2020 13:19:00: Update database..
+24.6.2020 13:19:04: Update database Successfully DONE
+24.6.2020 13:43:19: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 13:43:19: Mediadeleg database in use
+24.6.2020 13:43:21: Update database..
+24.6.2020 13:43:22: Update database Successfully DONE
+24.6.2020 13:45:30: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 13:45:30: Mediadeleg database in use
+24.6.2020 13:45:32: Update database..
+24.6.2020 13:45:33: Update database Successfully DONE
+24.6.2020 13:48:47: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 13:48:47: Mediadeleg database in use
+24.6.2020 13:48:48: Update database..
+24.6.2020 13:48:50: Update database Successfully DONE
+24.6.2020 13:56:15: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 13:56:15: Mediadeleg database in use
+24.6.2020 13:56:17: Update database..
+24.6.2020 13:56:19: Update database Successfully DONE
+24.6.2020 14:18:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 14:18:00: Mediadeleg database in use
+24.6.2020 14:18:02: Update database..
+24.6.2020 14:18:05: Update database Successfully DONE
+24.6.2020 14:46:17: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 14:46:17: Mediadeleg database in use
+24.6.2020 14:46:19: Update database..
+24.6.2020 14:46:21: Update database Successfully DONE
+24.6.2020 15:20:39: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 15:20:39: Mediadeleg database in use
+24.6.2020 15:20:41: Update database..
+24.6.2020 15:20:42: Update database Successfully DONE
+24.6.2020 19:05:08: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+24.6.2020 19:05:08: Mediadeleg database in use
+24.6.2020 19:05:10: Update database..
+24.6.2020 19:05:13: Update database Successfully DONE
+27.6.2020 15:02:45: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 15:02:46: Mediadeleg database in use
+27.6.2020 15:02:49: Update database..
+27.6.2020 15:02:55: Update database Successfully DONE
+27.6.2020 15:17:05: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 15:17:05: Mediadeleg database in use
+27.6.2020 15:17:10: Update database..
+27.6.2020 15:17:17: Update database Successfully DONE
+27.6.2020 15:19:03: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 15:19:03: Mediadeleg database in use
+27.6.2020 15:19:05: Update database..
+27.6.2020 15:19:07: Update database Successfully DONE
+27.6.2020 15:38:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 15:38:12: Mediadeleg database in use
+27.6.2020 15:38:15: Update database..
+27.6.2020 15:38:19: Update database Successfully DONE
+27.6.2020 15:43:49: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 15:43:49: Mediadeleg database in use
+27.6.2020 15:43:50: Update database..
+27.6.2020 15:43:52: Update database Successfully DONE
+27.6.2020 15:45:48: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 15:45:48: Mediadeleg database in use
+27.6.2020 15:45:49: Update database..
+27.6.2020 15:45:51: Update database Successfully DONE
+27.6.2020 15:51:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 15:51:21: Mediadeleg database in use
+27.6.2020 15:51:22: Update database..
+27.6.2020 15:51:23: Update database Successfully DONE
+27.6.2020 15:53:16: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 15:53:16: Mediadeleg database in use
+27.6.2020 15:53:18: Update database..
+27.6.2020 15:53:21: Update database Successfully DONE
+27.6.2020 17:00:44: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 17:00:44: Mediadeleg database in use
+27.6.2020 17:01:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 17:01:21: Mediadeleg database in use
+27.6.2020 17:05:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 17:05:12: Mediadeleg database in use
+27.6.2020 17:05:13: Update database..
+27.6.2020 17:05:14: Update database Successfully DONE
+27.6.2020 17:16:46: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 17:16:46: Mediadeleg database in use
+27.6.2020 17:16:47: Update database..
+27.6.2020 17:16:49: Update database Successfully DONE
+27.6.2020 17:18:36: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 17:18:36: Mediadeleg database in use
+27.6.2020 17:18:38: Update database..
+27.6.2020 17:18:39: Update database Successfully DONE
+27.6.2020 17:21:52: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 17:21:52: Mediadeleg database in use
+27.6.2020 17:21:53: Update database..
+27.6.2020 17:21:54: Update database Successfully DONE
+27.6.2020 20:10:54: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 20:10:54: Mediadeleg database in use
+27.6.2020 20:10:56: Update database..
+27.6.2020 20:11:01: Update database Successfully DONE
+27.6.2020 20:36:11: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 20:36:11: Mediadeleg database in use
+27.6.2020 20:36:33: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 20:36:34: Mediadeleg database in use
+27.6.2020 20:37:20: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 20:37:21: Mediadeleg database in use
+27.6.2020 20:37:43: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+27.6.2020 20:37:43: Mediadeleg database in use
+27.6.2020 20:37:44: Update database..
+27.6.2020 20:37:46: Update database Successfully DONE
+28.6.2020 22:15:36: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:15:36: Mediadeleg database in use
+28.6.2020 22:15:41: Update database..
+28.6.2020 22:15:45: Update database Successfully DONE
+28.6.2020 22:19:43: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:19:43: Mediadeleg database in use
+28.6.2020 22:19:44: Update database..
+28.6.2020 22:19:46: Update database Successfully DONE
+28.6.2020 22:23:55: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:23:55: Mediadeleg database in use
+28.6.2020 22:23:58: Update database..
+28.6.2020 22:24:00: Update database Successfully DONE
+28.6.2020 22:36:46: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:36:46: Mediadeleg database in use
+28.6.2020 22:36:47: Update database..
+28.6.2020 22:36:49: Update database Successfully DONE
+28.6.2020 22:40:05: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:40:05: Mediadeleg database in use
+28.6.2020 22:40:06: Update database..
+28.6.2020 22:40:08: Update database Successfully DONE
+28.6.2020 22:42:24: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:42:24: Mediadeleg database in use
+28.6.2020 22:42:25: Update database..
+28.6.2020 22:42:26: Update database Successfully DONE
+28.6.2020 22:43:04: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:43:04: Mediadeleg database in use
+28.6.2020 22:43:06: Update database..
+28.6.2020 22:43:07: Update database Successfully DONE
+28.6.2020 22:44:08: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:44:08: Mediadeleg database in use
+28.6.2020 22:44:09: Update database..
+28.6.2020 22:44:11: Update database Successfully DONE
+28.6.2020 22:45:39: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+28.6.2020 22:45:39: Mediadeleg database in use
+28.6.2020 22:45:40: Update database..
+28.6.2020 22:45:42: Update database Successfully DONE
+29.6.2020 17:25:35: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+29.6.2020 17:25:35: Mediadeleg database in use
+29.6.2020 17:25:39: Update database..
+29.6.2020 17:25:44: Update database Successfully DONE
+29.6.2020 17:46:03: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+29.6.2020 17:46:03: Mediadeleg database in use
+29.6.2020 17:46:04: Update database..
+29.6.2020 17:46:07: Update database Successfully DONE
+29.6.2020 17:47:18: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+29.6.2020 17:47:18: Mediadeleg database in use
+29.6.2020 17:47:20: Update database..
+29.6.2020 17:47:21: Update database Successfully DONE
+7.7.2020 15:12:33: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.7.2020 15:12:34: Mediadeleg database in use
+7.7.2020 15:12:37: Update database..
+7.7.2020 15:12:43: Update database Successfully DONE
+7.7.2020 15:18:24: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.7.2020 15:18:24: Mediadeleg database in use
+7.7.2020 15:18:26: Update database..
+7.7.2020 15:18:27: Update database Successfully DONE
+7.7.2020 15:24:30: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.7.2020 15:24:30: Mediadeleg database in use
+7.7.2020 15:24:31: Update database..
+7.7.2020 15:24:33: Update database Successfully DONE
+7.7.2020 15:27:17: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.7.2020 15:27:17: Mediadeleg database in use
+7.7.2020 15:27:18: Update database..
+7.7.2020 15:27:20: Update database Successfully DONE
+7.7.2020 15:31:51: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.7.2020 15:31:51: Mediadeleg database in use
+7.7.2020 15:31:53: Update database..
+7.7.2020 15:31:55: Update database Successfully DONE
+7.7.2020 15:39:38: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+7.7.2020 15:39:38: Mediadeleg database in use
+7.7.2020 15:39:40: Update database..
+7.7.2020 15:39:43: Update database Successfully DONE
+8.7.2020 19:11:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 19:11:21: Mediadeleg database in use
+8.7.2020 19:11:26: Update database..
+8.7.2020 19:11:33: Update database Successfully DONE
+8.7.2020 19:17:55: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 19:17:55: Mediadeleg database in use
+8.7.2020 19:17:57: Update database..
+8.7.2020 19:17:58: Update database Successfully DONE
+8.7.2020 19:24:19: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 19:24:19: Mediadeleg database in use
+8.7.2020 19:24:20: Update database..
+8.7.2020 19:24:21: Update database Successfully DONE
+8.7.2020 19:40:15: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 19:40:15: Mediadeleg database in use
+8.7.2020 19:40:17: Update database..
+8.7.2020 19:40:20: Update database Successfully DONE
+8.7.2020 20:03:40: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 20:03:40: Mediadeleg database in use
+8.7.2020 20:03:42: Update database..
+8.7.2020 20:03:45: Update database Successfully DONE
+8.7.2020 20:05:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 20:05:21: Mediadeleg database in use
+8.7.2020 20:05:22: Update database..
+8.7.2020 20:05:24: Update database Successfully DONE
+8.7.2020 20:06:03: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 20:06:03: Mediadeleg database in use
+8.7.2020 20:06:05: Update database..
+8.7.2020 20:06:06: Update database Successfully DONE
+8.7.2020 20:28:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 20:28:00: Mediadeleg database in use
+8.7.2020 20:28:03: Update database..
+8.7.2020 20:28:06: Update database Successfully DONE
+8.7.2020 20:50:52: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 20:50:52: Mediadeleg database in use
+8.7.2020 20:50:55: Update database..
+8.7.2020 20:50:57: Update database Successfully DONE
+8.7.2020 20:54:23: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 20:54:23: Mediadeleg database in use
+8.7.2020 20:54:24: Update database..
+8.7.2020 20:54:25: Update database Successfully DONE
+8.7.2020 20:57:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 20:57:00: Mediadeleg database in use
+8.7.2020 20:57:02: Update database..
+8.7.2020 20:57:03: Update database Successfully DONE
+8.7.2020 23:23:36: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 23:23:36: Mediadeleg database in use
+8.7.2020 23:23:38: Update database..
+8.7.2020 23:23:44: Update database Successfully DONE
+8.7.2020 23:28:15: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 23:28:15: Mediadeleg database in use
+8.7.2020 23:28:16: Update database..
+8.7.2020 23:28:17: Update database Successfully DONE
+8.7.2020 23:33:24: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 23:33:24: Mediadeleg database in use
+8.7.2020 23:33:26: Update database..
+8.7.2020 23:33:27: Update database Successfully DONE
+8.7.2020 23:37:23: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 23:37:23: Mediadeleg database in use
+8.7.2020 23:37:25: Update database..
+8.7.2020 23:37:26: Update database Successfully DONE
+8.7.2020 23:40:37: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+8.7.2020 23:40:37: Mediadeleg database in use
+8.7.2020 23:40:39: Update database..
+8.7.2020 23:40:40: Update database Successfully DONE
+9.7.2020 0:04:53: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:04:53: Mediadeleg database in use
+9.7.2020 0:04:54: Update database..
+9.7.2020 0:04:58: Update database Successfully DONE
+9.7.2020 0:12:44: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:12:44: Mediadeleg database in use
+9.7.2020 0:12:46: Update database..
+9.7.2020 0:12:48: Update database Successfully DONE
+9.7.2020 0:15:46: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:15:46: Mediadeleg database in use
+9.7.2020 0:15:49: Update database..
+9.7.2020 0:15:51: Update database Successfully DONE
+9.7.2020 0:21:53: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:21:53: Mediadeleg database in use
+9.7.2020 0:21:55: Update database..
+9.7.2020 0:21:56: Update database Successfully DONE
+9.7.2020 0:28:22: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:28:22: Mediadeleg database in use
+9.7.2020 0:28:24: Update database..
+9.7.2020 0:28:26: Update database Successfully DONE
+9.7.2020 0:35:51: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:35:51: Mediadeleg database in use
+9.7.2020 0:35:53: Update database..
+9.7.2020 0:35:54: Update database Successfully DONE
+9.7.2020 0:44:03: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:44:03: Mediadeleg database in use
+9.7.2020 0:44:04: Update database..
+9.7.2020 0:44:06: Update database Successfully DONE
+9.7.2020 0:48:20: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:48:20: Mediadeleg database in use
+9.7.2020 0:48:22: Update database..
+9.7.2020 0:48:25: Update database Successfully DONE
+9.7.2020 0:52:05: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 0:52:05: Mediadeleg database in use
+9.7.2020 0:52:07: Update database..
+9.7.2020 0:52:10: Update database Successfully DONE
+9.7.2020 11:20:56: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 11:20:56: Mediadeleg database in use
+9.7.2020 11:20:59: Update database..
+9.7.2020 11:21:02: Update database Successfully DONE
+9.7.2020 11:30:40: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 11:30:40: Mediadeleg database in use
+9.7.2020 11:30:42: Update database..
+9.7.2020 11:30:44: Update database Successfully DONE
+9.7.2020 11:39:02: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 11:39:02: Mediadeleg database in use
+9.7.2020 11:39:03: Update database..
+9.7.2020 11:39:05: Update database Successfully DONE
+9.7.2020 11:45:11: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 11:45:11: Mediadeleg database in use
+9.7.2020 11:45:12: Update database..
+9.7.2020 11:45:13: Update database Successfully DONE
+9.7.2020 11:49:08: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 11:49:08: Mediadeleg database in use
+9.7.2020 11:49:09: Update database..
+9.7.2020 11:49:11: Update database Successfully DONE
+9.7.2020 11:56:59: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 11:56:59: Mediadeleg database in use
+9.7.2020 11:57:01: Update database..
+9.7.2020 11:57:02: Update database Successfully DONE
+9.7.2020 11:59:54: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 11:59:54: Mediadeleg database in use
+9.7.2020 11:59:55: Update database..
+9.7.2020 11:59:57: Update database Successfully DONE
+9.7.2020 12:01:54: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:01:54: Mediadeleg database in use
+9.7.2020 12:01:55: Update database..
+9.7.2020 12:01:56: Update database Successfully DONE
+9.7.2020 12:02:39: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:02:39: Mediadeleg database in use
+9.7.2020 12:02:40: Update database..
+9.7.2020 12:02:42: Update database Successfully DONE
+9.7.2020 12:06:56: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:06:56: Mediadeleg database in use
+9.7.2020 12:06:58: Update database..
+9.7.2020 12:06:59: Update database Successfully DONE
+9.7.2020 12:08:05: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:08:05: Mediadeleg database in use
+9.7.2020 12:08:07: Update database..
+9.7.2020 12:08:09: Update database Successfully DONE
+9.7.2020 12:09:02: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:09:02: Mediadeleg database in use
+9.7.2020 12:09:04: Update database..
+9.7.2020 12:09:05: Update database Successfully DONE
+9.7.2020 12:10:44: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:10:44: Mediadeleg database in use
+9.7.2020 12:10:45: Update database..
+9.7.2020 12:10:47: Update database Successfully DONE
+9.7.2020 12:12:27: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:12:27: Mediadeleg database in use
+9.7.2020 12:12:29: Update database..
+9.7.2020 12:12:30: Update database Successfully DONE
+9.7.2020 12:15:26: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:15:26: Mediadeleg database in use
+9.7.2020 12:15:27: Update database..
+9.7.2020 12:15:29: Update database Successfully DONE
+9.7.2020 12:25:08: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:25:08: Mediadeleg database in use
+9.7.2020 12:25:10: Update database..
+9.7.2020 12:25:13: Update database Successfully DONE
+9.7.2020 12:27:55: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:27:55: Mediadeleg database in use
+9.7.2020 12:27:57: Update database..
+9.7.2020 12:27:58: Update database Successfully DONE
+9.7.2020 12:29:06: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:29:06: Mediadeleg database in use
+9.7.2020 12:29:07: Update database..
+9.7.2020 12:29:08: Update database Successfully DONE
+9.7.2020 12:30:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:30:00: Mediadeleg database in use
+9.7.2020 12:30:03: Update database..
+9.7.2020 12:30:05: Update database Successfully DONE
+9.7.2020 12:31:03: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:31:03: Mediadeleg database in use
+9.7.2020 12:31:04: Update database..
+9.7.2020 12:31:05: Update database Successfully DONE
+9.7.2020 12:35:46: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:35:46: Mediadeleg database in use
+9.7.2020 12:35:47: Update database..
+9.7.2020 12:35:49: Update database Successfully DONE
+9.7.2020 12:37:32: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:37:32: Mediadeleg database in use
+9.7.2020 12:37:35: Update database..
+9.7.2020 12:37:38: Update database Successfully DONE
+9.7.2020 12:38:35: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:38:35: Mediadeleg database in use
+9.7.2020 12:38:37: Update database..
+9.7.2020 12:38:40: Update database Successfully DONE
+9.7.2020 12:45:16: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:45:16: Mediadeleg database in use
+9.7.2020 12:45:17: Update database..
+9.7.2020 12:45:19: Update database Successfully DONE
+9.7.2020 12:50:34: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:50:34: Mediadeleg database in use
+9.7.2020 12:50:36: Update database..
+9.7.2020 12:50:37: Update database Successfully DONE
+9.7.2020 12:51:24: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:51:24: Mediadeleg database in use
+9.7.2020 12:51:25: Update database..
+9.7.2020 12:51:27: Update database Successfully DONE
+9.7.2020 12:52:27: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:52:27: Mediadeleg database in use
+9.7.2020 12:52:29: Update database..
+9.7.2020 12:52:30: Update database Successfully DONE
+9.7.2020 12:57:18: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:57:18: Mediadeleg database in use
+9.7.2020 12:57:20: Update database..
+9.7.2020 12:57:21: Update database Successfully DONE
+9.7.2020 12:59:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 12:59:12: Mediadeleg database in use
+9.7.2020 12:59:13: Update database..
+9.7.2020 12:59:15: Update database Successfully DONE
+9.7.2020 13:01:19: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:01:19: Mediadeleg database in use
+9.7.2020 13:01:20: Update database..
+9.7.2020 13:01:22: Update database Successfully DONE
+9.7.2020 13:04:55: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:04:55: Mediadeleg database in use
+9.7.2020 13:04:57: Update database..
+9.7.2020 13:04:58: Update database Successfully DONE
+9.7.2020 13:11:17: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:11:17: Mediadeleg database in use
+9.7.2020 13:11:19: Update database..
+9.7.2020 13:11:20: Update database Successfully DONE
+9.7.2020 13:14:33: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:14:33: Mediadeleg database in use
+9.7.2020 13:14:35: Update database..
+9.7.2020 13:14:36: Update database Successfully DONE
+9.7.2020 13:17:14: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:17:14: Mediadeleg database in use
+9.7.2020 13:17:15: Update database..
+9.7.2020 13:17:17: Update database Successfully DONE
+9.7.2020 13:21:29: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:21:29: Mediadeleg database in use
+9.7.2020 13:21:30: Update database..
+9.7.2020 13:21:33: Update database Successfully DONE
+9.7.2020 13:35:50: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:35:50: Mediadeleg database in use
+9.7.2020 13:35:51: Update database..
+9.7.2020 13:35:53: Update database Successfully DONE
+9.7.2020 13:39:25: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:39:25: Mediadeleg database in use
+9.7.2020 13:39:27: Update database..
+9.7.2020 13:39:28: Update database Successfully DONE
+9.7.2020 13:43:04: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:43:04: Mediadeleg database in use
+9.7.2020 13:43:06: Update database..
+9.7.2020 13:43:08: Update database Successfully DONE
+9.7.2020 13:47:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:47:21: Mediadeleg database in use
+9.7.2020 13:47:23: Update database..
+9.7.2020 13:47:24: Update database Successfully DONE
+9.7.2020 13:50:18: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 13:50:18: Mediadeleg database in use
+9.7.2020 13:50:21: Update database..
+9.7.2020 13:50:22: Update database Successfully DONE
+9.7.2020 16:35:30: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 16:35:30: Mediadeleg database in use
+9.7.2020 16:35:32: Update database..
+9.7.2020 16:35:36: Update database Successfully DONE
+9.7.2020 16:43:31: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 16:43:31: Mediadeleg database in use
+9.7.2020 16:43:33: Update database..
+9.7.2020 16:43:37: Update database Successfully DONE
+9.7.2020 16:49:54: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 16:49:54: Mediadeleg database in use
+9.7.2020 16:49:56: Update database..
+9.7.2020 16:49:57: Update database Successfully DONE
+9.7.2020 16:53:50: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 16:53:50: Mediadeleg database in use
+9.7.2020 16:53:53: Update database..
+9.7.2020 16:53:55: Update database Successfully DONE
+9.7.2020 16:55:52: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 16:55:52: Mediadeleg database in use
+9.7.2020 16:55:55: Update database..
+9.7.2020 16:55:57: Update database Successfully DONE
+9.7.2020 17:12:32: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 17:12:32: Mediadeleg database in use
+9.7.2020 17:12:33: Update database..
+9.7.2020 17:12:37: Update database Successfully DONE
+9.7.2020 17:17:50: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 17:17:50: Mediadeleg database in use
+9.7.2020 17:17:52: Update database..
+9.7.2020 17:17:53: Update database Successfully DONE
+9.7.2020 18:00:19: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 18:00:19: Mediadeleg database in use
+9.7.2020 18:00:21: Update database..
+9.7.2020 18:00:23: Update database Successfully DONE
+9.7.2020 18:02:40: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 18:02:40: Mediadeleg database in use
+9.7.2020 18:02:41: Update database..
+9.7.2020 18:02:43: Update database Successfully DONE
+9.7.2020 18:04:28: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 18:04:28: Mediadeleg database in use
+9.7.2020 18:04:29: Update database..
+9.7.2020 18:04:31: Update database Successfully DONE
+9.7.2020 18:05:55: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 18:05:55: Mediadeleg database in use
+9.7.2020 18:05:56: Update database..
+9.7.2020 18:05:58: Update database Successfully DONE
+9.7.2020 18:07:12: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 18:07:12: Mediadeleg database in use
+9.7.2020 18:07:13: Update database..
+9.7.2020 18:07:15: Update database Successfully DONE
+9.7.2020 18:10:43: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+9.7.2020 18:10:43: Mediadeleg database in use
+9.7.2020 18:10:44: Update database..
+9.7.2020 18:10:45: Update database Successfully DONE
+10.7.2020 13:24:38: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 13:24:38: Mediadeleg database in use
+10.7.2020 13:24:41: Update database..
+10.7.2020 13:24:45: Update database Successfully DONE
+10.7.2020 13:27:37: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 13:27:37: Mediadeleg database in use
+10.7.2020 13:27:39: Update database..
+10.7.2020 13:27:40: Update database Successfully DONE
+10.7.2020 13:31:22: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 13:31:22: Mediadeleg database in use
+10.7.2020 13:31:23: Update database..
+10.7.2020 13:31:24: Update database Successfully DONE
+10.7.2020 13:37:24: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 13:37:24: Mediadeleg database in use
+10.7.2020 13:37:25: Update database..
+10.7.2020 13:37:27: Update database Successfully DONE
+10.7.2020 13:39:38: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 13:39:38: Mediadeleg database in use
+10.7.2020 13:39:40: Update database..
+10.7.2020 13:39:41: Update database Successfully DONE
+10.7.2020 13:43:20: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 13:43:20: Mediadeleg database in use
+10.7.2020 13:43:21: Update database..
+10.7.2020 13:43:23: Update database Successfully DONE
+10.7.2020 14:00:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 14:00:00: Mediadeleg database in use
+10.7.2020 14:00:02: Update database..
+10.7.2020 14:00:06: Update database Successfully DONE
+10.7.2020 14:22:51: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 14:22:51: Mediadeleg database in use
+10.7.2020 14:22:52: Update database..
+10.7.2020 14:22:55: Update database Successfully DONE
+10.7.2020 14:25:55: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+10.7.2020 14:25:55: Mediadeleg database in use
+10.7.2020 14:25:56: Update database..
+10.7.2020 14:25:59: Update database Successfully DONE
+11.7.2020 12:20:48: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 12:20:48: Mediadeleg database in use
+11.7.2020 12:21:30: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 12:21:30: Mediadeleg database in use
+11.7.2020 12:21:50: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 12:21:50: Mediadeleg database in use
+11.7.2020 12:21:51: Update database..
+11.7.2020 12:21:53: Update database Successfully DONE
+11.7.2020 12:24:29: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 12:24:29: Mediadeleg database in use
+11.7.2020 12:24:30: Update database..
+11.7.2020 12:24:32: Update database Successfully DONE
+11.7.2020 12:35:42: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 12:35:42: Mediadeleg database in use
+11.7.2020 12:35:46: Update database..
+11.7.2020 12:35:48: Update database Successfully DONE
+11.7.2020 12:40:04: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 12:40:04: Mediadeleg database in use
+11.7.2020 12:40:07: Update database..
+11.7.2020 12:40:09: Update database Successfully DONE
+11.7.2020 12:46:53: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 12:46:53: Mediadeleg database in use
+11.7.2020 12:46:55: Update database..
+11.7.2020 12:46:56: Update database Successfully DONE
+11.7.2020 17:07:11: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 17:07:11: Mediadeleg database in use
+11.7.2020 17:07:12: Update database..
+11.7.2020 17:07:17: Update database Successfully DONE
+11.7.2020 17:10:38: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 17:10:38: Mediadeleg database in use
+11.7.2020 17:10:39: Update database..
+11.7.2020 17:10:40: Update database Successfully DONE
+11.7.2020 17:13:26: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 17:13:26: Mediadeleg database in use
+11.7.2020 17:13:27: Update database..
+11.7.2020 17:13:28: Update database Successfully DONE
+11.7.2020 17:16:08: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 17:16:08: Mediadeleg database in use
+11.7.2020 17:16:11: Update database..
+11.7.2020 17:16:13: Update database Successfully DONE
+11.7.2020 17:21:06: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 17:21:06: Mediadeleg database in use
+11.7.2020 17:21:07: Update database..
+11.7.2020 17:21:09: Update database Successfully DONE
+11.7.2020 17:26:16: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 17:26:16: Mediadeleg database in use
+11.7.2020 17:26:18: Update database..
+11.7.2020 17:26:20: Update database Successfully DONE
+11.7.2020 19:11:02: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:11:02: Mediadeleg database in use
+11.7.2020 19:11:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:11:22: Mediadeleg database in use
+11.7.2020 19:11:43: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:11:43: Mediadeleg database in use
+11.7.2020 19:11:44: Update database..
+11.7.2020 19:11:46: Update database Successfully DONE
+11.7.2020 19:17:02: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:17:02: Mediadeleg database in use
+11.7.2020 19:17:04: Update database..
+11.7.2020 19:17:06: Update database Successfully DONE
+11.7.2020 19:19:06: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:19:06: Mediadeleg database in use
+11.7.2020 19:19:07: Update database..
+11.7.2020 19:19:08: Update database Successfully DONE
+11.7.2020 19:20:07: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:20:07: Mediadeleg database in use
+11.7.2020 19:20:08: Update database..
+11.7.2020 19:20:10: Update database Successfully DONE
+11.7.2020 19:23:17: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:23:17: Mediadeleg database in use
+11.7.2020 19:23:19: Update database..
+11.7.2020 19:23:22: Update database Successfully DONE
+11.7.2020 19:25:23: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:25:23: Mediadeleg database in use
+11.7.2020 19:25:24: Update database..
+11.7.2020 19:25:27: Update database Successfully DONE
+11.7.2020 19:27:33: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+11.7.2020 19:27:33: Mediadeleg database in use
+11.7.2020 19:27:34: Update database..
+11.7.2020 19:27:36: Update database Successfully DONE
+12.7.2020 10:39:21: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+12.7.2020 10:39:21: Mediadeleg database in use
+12.7.2020 10:39:23: Update database..
+12.7.2020 10:39:50: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+12.7.2020 10:39:50: Mediadeleg database in use
+12.7.2020 10:40:35: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+12.7.2020 10:40:35: Mediadeleg database in use
+12.7.2020 10:41:19: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+12.7.2020 10:41:19: Mediadeleg database in use
+12.7.2020 10:45:39: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+12.7.2020 10:45:39: Mediadeleg database in use
+12.7.2020 10:46:00: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+12.7.2020 10:46:00: Mediadeleg database in use
+12.7.2020 10:46:55: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+12.7.2020 10:46:55: Mediadeleg database in use
+12.7.2020 10:46:57: Update database..
+12.7.2020 10:46:58: Update database Successfully DONE
+12.7.2020 10:52:58: connection string to Database = 'Server=(localdb)\mssqllocaldb;Database=aspnet-InfoSystem.Web-900F66BD-FD30-461A-9CC0-3C23753AC859;Trusted_Connection=True;MultipleActiveResultSets=true'
+12.7.2020 10:52:58: Mediadeleg database in use
+12.7.2020 10:53:03: Update database..
+12.7.2020 10:53:04: Update database Successfully DONE

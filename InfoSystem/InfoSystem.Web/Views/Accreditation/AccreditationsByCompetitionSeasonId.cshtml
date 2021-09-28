@@ -1,0 +1,49 @@
+﻿@model IEnumerable<InfoSystem.Web.Models.Accreditation.AccreditationListingModel>
+
+@{
+    ViewData["Title"] = "AccreditationsByCompetitionSeasonId";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+<h1>Accreditations</h1>
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                User name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.State)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Close)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.ActionLink(item.User.Name,"Details","User")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.State)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Close)
+            </td>
+            <td>
+                <form method="post" asp-action="AcceptAccreditation" asp-controller="Accreditation" asp-route-id="@item.AccreditationId">
+                    <button type="submit" class="btn btn-primary">Accept</button>
+                </form>
+                @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |*@
+                @Html.ActionLink("Details", "Details", new { id = item.AccreditationId }) |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\**" />
+    <Compile Remove="Transfers\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="Transfers\**" />
+    <None Remove="Models\**" />
+    <None Remove="Transfers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200114205101_UserUpdate2.cs" />
+    <Compile Remove="Migrations\20200114205101_UserUpdate2.Designer.cs" />
+    <Compile Remove="Migrations\20200126223807_UserRoleRedactionUpdate.cs" />
+    <Compile Remove="Migrations\20200126223807_UserRoleRedactionUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20200126225503_UserRoleRedactionUpdate2.cs" />
+    <Compile Remove="Migrations\20200126225503_UserRoleRedactionUpdate2.Designer.cs" />
+    <Compile Remove="Migrations\20200202125319_Accreditation.cs" />
+    <Compile Remove="Migrations\20200202125319_Accreditation.Designer.cs" />
+    <Compile Remove="Migrations\20200627150047_RedactorReportRemoveVirtual.cs" />
+    <Compile Remove="Migrations\20200627150047_RedactorReportRemoveVirtual.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InfoSystem.Core\InfoSystem.Core.csproj" />
+  </ItemGroup>
+
+</Project>

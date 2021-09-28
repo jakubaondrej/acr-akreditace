@@ -1,0 +1,90 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using InfoSystem.Data.Entities
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <title>@ViewData["Title"] - Informační systém akreditací</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="~/css/main.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body class="subpage">
+    <!-- Header -->
+    <header id="header" class="alt">
+        <a class="logo" asp-controller="Home" asp-action="Index">Informační systém akreditací Autoklubu České republiky</a>
+        <a href="#menu"><span>Menu</span></a>
+    </header>
+
+    <!-- Navigation -->
+    <nav id="menu">
+        <ul class="links">
+            <partial name="_LoginPartial" />
+            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li><a asp-controller="Home" asp-action="Contacts">Kontakty</a></li>
+            <li><a asp-controller="Home" asp-action="Documents">Dokumenty</a></li>
+            @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+            {
+                <li class="nav-item">
+                    <a>Manage</a>
+                    <a class="dropdown-item" asp-controller="User" asp-action="Index">
+                        Users
+                    </a>
+                    <a class="dropdown-item" asp-controller="UserAccessRequest" asp-action="Index">
+                        User requests
+                    </a>
+                    <a class="dropdown-item" asp-controller="Redaction" asp-action="Index">
+                        Redaction
+                    </a>
+                    <a class="dropdown-item" asp-controller="Sport" asp-action="Index">
+                        Sport
+                    </a>
+                    <a class="dropdown-item" asp-controller="Championship" asp-action="Index">
+                        Championship
+                    </a>
+                    <a class="dropdown-item" asp-controller="Competition" asp-action="Index">
+                        Competition
+                    </a>
+                    <a class="dropdown-item" asp-controller="Season" asp-action="Index">
+                        Season
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
+
+    <!-- Main -->
+    <div id="main" class="container">
+        @RenderBody()
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <div class="copyright">
+                &copy; 2020 - Akreditační systém - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                <br />
+                &copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery-validate/localization/messages_cs.js"></script>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/jquery.scrolly.min.js"></script>
+    <script src="~/js/jquery.scrollex.min.js"></script>
+    <script src="~/js/skel.min.js"></script>
+    <script src="~/js/util.js"></script>
+    <script src="~/js/main.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validate/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validate/localization/messages_cs.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

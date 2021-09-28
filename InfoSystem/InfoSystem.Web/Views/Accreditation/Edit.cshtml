@@ -1,0 +1,43 @@
+﻿@model InfoSystem.Web.Models.Accreditation.AccredationEditModel
+
+@{
+    ViewData["Title"] = "Edit Accreditation";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+
+}
+
+<h1>Edit Accreditation</h1>
+
+<h4>@Model.User.Name : @Model.HeaderInfo.CompetitionName - @Model.HeaderInfo.SeasonYear.ToString()</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                @Html.DropDownListFor(model => model.State, Model.StateItems)
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Note" class="control-label"></label>
+                <input asp-for="Note" class="form-control" />
+                <span asp-validation-for="Note" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Close" /> @Html.DisplayNameFor(model => model.Close)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="button" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="AccreditationsByCompetitionSeasonId" asp-route-id="@Model.CompetitionSeasonId" class="button">Back to list</a>
+</div>
+

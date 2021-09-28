@@ -1,0 +1,15 @@
+﻿@model InfoSystem.Web.Models.LoginModel
+
+    <div class="login">
+        <div class="username">
+            @Html.LabelFor(model => model.Username)
+            @Html.EditorFor(model => model.Username, new { @class = "form-control", placeholder = "Username" })
+            @Html.ValidationMessageFor(model => model.Username)
+        </div>
+        <div class="password">
+            @Html.LabelFor(model => model.Password)
+            @Html.PasswordFor(model => model.Password, new { @class = "form-control", placeholder = "Password" })
+            @Html.ValidationMessageFor(model => model.Password)
+        </div>
+        <input type="submit" value="Login" class="btn btn-primary" />
+    </div>

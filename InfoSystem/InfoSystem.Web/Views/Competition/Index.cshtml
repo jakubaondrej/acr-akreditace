@@ -1,0 +1,35 @@
+﻿@model IEnumerable<InfoSystem.Web.Models.competition.CompetitionListingModel>
+
+@{
+    ViewData["Title"] = "Competitions";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+    <h1>Competitions</h1>
+
+<p>
+    <a asp-action="Create" class="button alt">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.CompetitionId }) |
+                @Html.ActionLink("Details", "Details", new { id=item.CompetitionId }) 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

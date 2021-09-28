@@ -1,0 +1,85 @@
+﻿@model List<InfoSystem.Web.Models.CompetitionSeason.CompetitionSeasonListingModel>
+@using Microsoft.AspNetCore.Identity
+@using InfoSystem.Data.Entities
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+@{
+    ViewData["Title"] = "Informační systém - Home";
+}
+
+<!-- Banner -->
+<!--
+    Note: To show a background image, set the "data-bg" attribute below
+    to the full filename of your image. This is used in each section to set
+    the background image.
+-->
+
+<section id="banner" class="bg-img" data-bg="mainPicture.jpg">
+    <div class="inner">
+        <header>
+            <h2>Vítejte na našem informačním systému akreditací Autoklubu České republiky</h2>
+            <h5>Welcome on the information system Accreditation Autoklub České republiky</h5>
+        </header>
+    </div>
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <a href="#next_events" class="more">Připravujeme</a>
+    }
+</section>
+
+@* NEXT EVENTS *@
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <section id="next_events" class="wrapper post bg-img" data-bg="mainPicture.jpg">
+        <div class="inner current">
+            <header>
+                <h2>Připravované události</h2>
+                <h5>Next events</h5>
+            </header>
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="responsive_gallery">
+                        <div class="galery-selection">
+                            <a href="~/CompetitionSeason/CompetitionSeasonAccreditation/@item.CompetitionSeasonId">
+                                <img class="scale-down" src=@item.PictureUrl />
+                                <div class="nazev">@item.OfficialSeasonName</div>
+                            </a>
+                        </div>
+                    </div>
+                }
+            </div>
+            <a class="button alt" href="~/Sport/SelectSport">
+                Prozkoumat další
+            </a>
+        </div>
+    </section>
+}
+else
+{
+    <section id="next_events" class="wrapper post bg-img" data-bg="mainPicture.jpg">
+        <div class="inner current">
+            <header>
+                <h2>Přihlaste se</h2>
+                <h5>Login</h5>
+            </header>
+            <div class="login-row">
+                <span>Pro pokračování je potřeba být přihlášen.</span>
+            </div>
+            <div class="login-row">
+                    <a class="centered button alt" asp-action="login" asp-controller="user">Přihlásit se</a>
+            </div>
+            <div class="login-row margin-top30">
+                <span>Pokud nemáte přihlašovací údaje můžete o ně zažádat.</span>
+            </div>
+            <div class="login-row">
+                <div>
+                    <a class="centered button alt" asp-action="Create" asp-controller="UserAccessRequest">Zažádat o přístup</a>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+

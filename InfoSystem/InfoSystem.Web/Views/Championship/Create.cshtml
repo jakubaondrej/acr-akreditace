@@ -1,0 +1,41 @@
+﻿@model InfoSystem.Web.Models.championship.ChampionshipCreateModel
+
+@{
+    ViewData["Title"] = "Create Championship";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Championship</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageUrl" class="control-label"></label>
+                <input asp-for="ImageUrl" class="form-control" />
+                <span asp-validation-for="ImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SelectedSportId" class="control-label"></label>
+                @Html.DropDownListFor(model => model.SelectedSportId, Model.SportItems)
+                <span asp-validation-for="SelectedSportId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="button">Back to List</a>
+</div>
+

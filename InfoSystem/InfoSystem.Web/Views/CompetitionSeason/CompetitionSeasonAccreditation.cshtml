@@ -1,0 +1,140 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using InfoSystem.Data.Entities
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+@model InfoSystem.Web.Models.CompetitionSeason.CompetitionSeasonAccreditationUserModel
+
+@{
+    ViewData["Title"] = "Accreditation";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+@Html.ActionLink("Start", "SelectSport", "Sport") >
+@Html.ActionLink(Model.Sport.Name, "SelectChampionship", "championship", new { id = Model.Sport.Id }) >
+@Html.ActionLink(Model.Championship.Name, "SelectCompetition", "Competition", new { id = Model.Championship.Id }) >
+@Html.ActionLink(Model.Competition.Name, "SelectCompetitionSeason", "CompetitionSeason", new { id = Model.Competition.CompetitionId }) >
+@Html.DisplayFor(model => model.Season.Year)
+
+<h2>Akreditace</h2>
+<h5>Accreditation</h5>
+<hr />
+<div>
+    <h4>@Html.DisplayFor(model => model.OfficialSeasonName)</h4>
+    <hr />
+    <div>
+        <dl class="row">
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Start)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Start)
+            </dd>
+        </dl>
+        <dl class="row">
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.End)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.End)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.JournalistRegistrationStart)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.JournalistRegistrationStart)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.JournalistRegistrationEnd)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.JournalistRegistrationEnd)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.JournalistUploadFotoDeadline)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.JournalistUploadFotoDeadline)
+            </dd>
+        </dl>
+    </div>
+</div>
+
+<div>
+
+    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+    {
+        @Html.ActionLink("Správa akreditací", "AccreditationsByCompetitionSeasonId", "Accreditation", new { id = Model.Id }, new { @class = "button" })
+    }
+    else if (SignInManager.IsSignedIn(User) && User.IsInRole("Paparazi"))
+    {
+        <form method="post" enctype="multipart/form-data" asp-controller="CompetitionSeason" asp-action="UploadPaparaziFile">
+            <div class="form-group">
+                <div class="col-md-10">
+                    <p>Upload one or more files using this form:</p>
+                    <input type="file" name="files" multiple />
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-10">
+                    <input type="submit" value="Upload" />
+                </div>
+            </div>
+        </form>
+    }
+    else if (Model.Accreditation != null)
+    {
+        @if (@Model.Accreditation.Close)
+        {
+            <label>Vaše akreditace je již uzavřena.</label>
+        }
+        else
+        {
+            <label>Vaše akreditace je ve stavu: @Model.Accreditation.State</label>
+            @if (@Model.Accreditation.files != null && @Model.Accreditation.files.Any())
+            {
+                <label>Pro tuto akreditaci jste doložili činnost.</label>
+            }
+            else
+            {
+                <label>Pro tuto akreditaci jste svou činnost nedoložil.</label>
+                <form method="post" enctype="multipart/form-data" asp-route-id="@Model.Id" asp-controller="CompetitionSeason" asp-action="UploadFile">
+                    <div class="form-group">
+                        <div class="col-md-10">
+                            <p>Upload one or more files using this form:</p>
+                            <input type="file" name="files" multiple />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-10">
+                            <input type="submit" value="Upload" />
+                        </div>
+                    </div>
+                </form>
+            }
+        }
+
+    }
+    else if (Model.JournalistRegistrationStart > DateTime.Now)
+    {
+        <label>V tuto chvíli není možné požádat o akreditaci.</label>
+    }
+    else if (Model.JournalistRegistrationStart < DateTime.Now && Model.JournalistRegistrationEnd > DateTime.Now)
+    {
+        <form method="post" asp-action="CreateByUser" asp-route-id="@Model.Id" asp-controller="Accreditation">
+            <button type="submit" class="btn btn-primary">Přihlásit se</button>
+        </form>
+    }
+    else
+    {
+        <label>Přihlášky byly ukončeny</label>
+    }
+
+</div>

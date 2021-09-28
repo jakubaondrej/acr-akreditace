@@ -1,0 +1,52 @@
+﻿@model IEnumerable<InfoSystem.Web.Models.RedactorViewPaparaziMedia.RedactorViewPaparaziMediaListingModel>
+
+@{
+    ViewData["Title"] = "Redactor view media";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Redactor View Paparazi Media Requests</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    <form method="post" asp-action="AcceptRequest">
+                        <div class="form-group">
+                            <div class="col-md-10">
+                                <input type="submit" value="Accept" />
+                            </div>
+                        </div>
+                    </form>
+
+                    <form method="post" asp-action="DenyRequest">
+                        <div class="form-group">
+                            <div class="col-md-10">
+                                <input type="submit" value="Deny" />
+                            </div>
+                        </div>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,90 @@
+﻿@model InfoSystem.Web.Models.Users.UserDetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+    <h1>User details</h1>
+
+    <div>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Username)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.PhoneNumber)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">
+                Redakce
+            </dt>
+            <dd class="col-sm-10">
+                @Html.ActionLink(Model.Redaction.Name, "Details", "Redaction", new { id = Model.RedactionId })
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Note)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Note)
+            </dd>
+        </dl>
+
+        <h6>User Roles</h6>
+        <table class="table">
+            <tbody>
+                @foreach (var item in Model.UserRoles)
+                {
+                    <tr>
+                        <td>
+                            @item
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+<div>
+
+    <form method="post" asp-action="Delete" asp-route-id="@Model.Id">
+        <a asp-action="Edit" class="btn btn-primary" asp-route-id="@Model.Id">
+            Edit
+        </a>
+        <span id="confirmDeleteSpan" style="display:none">
+            <span>Are you sure you want to delete this user?</span>
+            <button type="submit" class="btn btn-danger">Yes</button>
+            <a href="#" class="btn btn-primary" onclick="confirmDelete(false)">No</a>
+        </span>
+        <span id="deleteSpan">
+            <a href="#" class="btn btn-danger" onclick="confirmDelete(true)">Delete</a>
+        </span>
+
+        <a asp-action="Index" class="btn btn-primary">
+            Back to List
+        </a>
+    </form>
+</div>
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}

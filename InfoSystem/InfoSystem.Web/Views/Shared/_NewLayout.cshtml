@@ -1,0 +1,152 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using InfoSystem.Data.Entities
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>@ViewData["Title"] - Informační systém</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="~/css/main.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/lib/jquery-ui/themes/base/core.css" rel="stylesheet" />
+    <link href="~/lib/jquery-ui/themes/base/datepicker.css" rel="stylesheet" />
+    <link href="~/lib/jquery-ui/themes/base/theme.css" rel="stylesheet" />
+    <link href="~/lib/jquery-ui/themes/base/all.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Header -->
+    <header id="header">
+        <div class="logo" asp-area="" asp-controller="Home" asp-action="Index">Informační systém akreditací Autoklubu České republiky</div>
+        <a href="#menu"><span>Menu</span></a>
+    </header>
+
+    <!-- Navigation -->
+    <nav id="menu">
+        <ul class="links">
+            <partial name="_LoginPartial" />
+            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li><a asp-controller="Home" asp-action="Contacts">Kontakty</a></li>
+            <li><a asp-controller="Home" asp-action="Documents">Dokumenty</a></li>
+            @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+            {
+                <li class="nav-item">
+                    <a>Manage</a>
+                    <a class="dropdown-item" asp-controller="User" asp-action="Index">
+                        Users
+                    </a>
+                    <a class="dropdown-item" asp-controller="UserAccessRequest" asp-action="Index">
+                        User requests
+                    </a>
+                    <a class="dropdown-item" asp-controller="Redaction" asp-action="Index">
+                        Redaction
+                    </a>
+                    <a class="dropdown-item" asp-controller="Sport" asp-action="Index">
+                        Sport
+                    </a>
+                    <a class="dropdown-item" asp-controller="Championship" asp-action="Index">
+                        Championship
+                    </a>
+                    <a class="dropdown-item" asp-controller="Competition" asp-action="Index">
+                        Competition
+                    </a>
+                    <a class="dropdown-item" asp-controller="Season" asp-action="Index">
+                        Season
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
+
+    <!-- Body -->
+    <div>
+        @RenderBody()
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+
+            <h2>Kontakty</h2>
+            <div>
+                <h5>Akreditace a zástupce media delegáta (Accreditation and deputy media delegate)</h5>
+                <b>
+                    Evžen Gargulák
+                </b>
+                <div>
+                    Telefon: +420 605 217 969
+                </div>
+                <div>
+                    Email: akreditace@mediadelegat.cz
+                </div>
+            </div>
+            <hr />
+
+            <div>
+                <h5>Media delegát (Media delegate)</h5>
+                <b>
+                    Karel Louda
+                </b>
+                <div>
+                    Telefon: +420 724 709 070
+                </div>
+                <div>
+                    Email: louda@mediadelegat.cz
+                </div>
+            </div>
+            <hr />
+            <div>
+                <b>
+                    Karel Nevečeřal
+                </b>
+                <div>
+                    Telefon: 420 773 243 454
+                </div>
+            </div>
+            @*<form action="#" method="post">
+
+                    <div class="field half first">
+                        <label for="name">Name</label>
+                        <input name="name" id="name" type="text" placeholder="Name">
+                    </div>
+                    <div class="field half">
+                        <label for="email">Email</label>
+                        <input name="email" id="email" type="email" placeholder="Email">
+                    </div>
+                    <div class="field">
+                        <label for="message">Message</label>
+                        <textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+                    </div>
+                    <ul class="actions">
+                        <li><input value="Send Message" class="button alt" type="submit"></li>
+                    </ul>
+                </form>*@
+
+            <div class="copyright">
+                &copy; 2020 - Akreditační systém - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+            <div class="copyright">
+                &copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery-validate/localization/messages_cs.js"></script>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/jquery.scrolly.min.js"></script>
+    <script src="~/js/jquery.scrollex.min.js"></script>
+    <script src="~/js/skel.min.js"></script>
+    <script src="~/js/util.js"></script>
+    <script src="~/js/main.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validate/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validate/localization/messages_cs.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

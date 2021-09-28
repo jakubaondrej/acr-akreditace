@@ -1,0 +1,28 @@
+﻿@model InfoSystem.Web.Models.championship.ChampionshipSelectModel
+
+@{
+    ViewData["Title"] = "Select Championship";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+@Html.ActionLink("Start", "SelectSport", "Sport") >
+@Html.ActionLink(Model.Sport.Name, "SelectChampionship", "championship", new { id = Model.Sport.Id }) >
+
+<h2>Mistrovství</h2>
+<h5>Championship</h5>
+<hr />
+<section>
+    <div class="row">
+        @foreach (var champ in Model.Championships)
+        {
+            <div class="responsive_gallery">
+                <div class="galery-selection">
+                    <a href="~/competition/SelectCompetition/@champ.Id">
+                        <img src=@champ.ImageUrl />
+                        <div class="nazev">@champ.Name</div>
+                    </a>
+                </div>
+            </div>
+        }
+    </div>
+</section>

@@ -1,0 +1,52 @@
+﻿@model InfoSystem.Web.Models.Accreditation.AccreditationDetailsModel
+
+@{
+    ViewData["Title"] = "Accreditation";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+<h1>Accreditation</h1>
+
+<div>
+    <h4>@Model.User.Name : @Model.HeaderInfo.CompetitionName - @Model.HeaderInfo.SeasonYear.ToString()</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.State)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.State)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Note)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Note)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.files)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.files.Any())
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Close)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Close)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AccreditationId }, new { @class = "button" })
+    <form method="post" asp-action="AcceptAccreditation" asp-controller="Accreditation" asp-route-id="@Model.AccreditationId">
+        <button type="submit" class="btn btn-primary">Accept</button>
+        <a asp-action="AccreditationsByCompetitionSeasonId" asp-route-id="@Model.AccreditationId" class="button">Back to list</a>
+    </form>
+</div>

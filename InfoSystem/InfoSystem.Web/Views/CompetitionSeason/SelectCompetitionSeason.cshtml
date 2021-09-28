@@ -1,0 +1,38 @@
+﻿@model InfoSystem.Web.Models.CompetitionSeason.CompetitionSeasonSelectionModel
+
+@{
+    ViewData["Title"] = "Select Season";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+@Html.ActionLink("Start", "SelectSport", "Sport") >
+@Html.ActionLink(Model.Sport.Name, "SelectChampionship", "championship", new { id = Model.Sport.Id }) >
+@Html.ActionLink(Model.Championship.Name, "SelectCompetition", "Competition", new { id = Model.Championship.Id }) >
+@Html.ActionLink(Model.Competition.Name, "SelectCompetitionSeason", "CompetitionSeason", new { id = Model.Competition.CompetitionId }) >
+
+<h2>Sezóny</h2>
+<h5>Seasons</h5>
+<hr />
+<section>
+        @if (Model.competitionSeasonListings == null)
+        {
+            <div>Omlouváme se, ale momentálně pro tuto soutěž není zveřejněna žádná sezóna.</div>
+            <div>We are sorry there is not any season for this competition.</div>
+        }
+        else
+        {
+            <div class="galery-row">
+                @foreach (var season in Model.competitionSeasonListings)
+                {
+                    <div class="responsive_gallery">
+                        <div class="galery-selection">
+                            <a href="~/CompetitionSeason/CompetitionSeasonAccreditation/@season.CompetitionSeasonId">
+                                <img src=@season.PictureUrl />
+                                <div class="nazev">@season.OfficialSeasonName</div>
+                            </a>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+</section>

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<InfoSystem.Web.Models.Sport.SportSelectionListModel>
+
+@{
+    ViewData["Title"] = "Select Sport";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+<h2>Disciplína</h2>
+<h5>Sport</h5>
+
+<hr />
+<section>
+    <div class="row">
+        @foreach (var sport in Model)
+        {
+            <div class="responsive_gallery">
+                <div class="galery-selection">
+                    <a href="~/Championship/SelectChampionship/@sport.Id">
+                        <img src=@sport.ImageUrl?.ToString() />
+                        <div class="nazev">@sport.Name</div>
+                    </a>
+                </div>
+            </div>
+        }
+    </div>
+</section>

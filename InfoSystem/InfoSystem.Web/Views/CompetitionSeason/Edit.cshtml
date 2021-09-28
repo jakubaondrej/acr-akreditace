@@ -1,0 +1,81 @@
+﻿@model InfoSystem.Web.Models.CompetitionSeason.CompetitionSeasonEditModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Season of @Model.CompetitionName</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            @Html.HiddenFor(model => model.CompetitionId)
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PictureStoreUri" class="control-label"></label>
+                <input asp-for="PictureStoreUri" class="form-control" />
+                <span asp-validation-for="PictureStoreUri" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Start" class="control-label"></label>
+                @Html.TextBoxFor(model => model.Start, new { @class = "datepicker" })
+                <span asp-validation-for="Start" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="End" class="control-label"></label>
+                @Html.TextBoxFor(model => model.End, new { @class = "datepicker" })
+                <span asp-validation-for="End" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JournalistRegistrationStart" class="control-label"></label>
+                @Html.TextBoxFor(model => model.JournalistRegistrationStart, new { @class = "datepicker" })
+                <span asp-validation-for="JournalistRegistrationStart" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JournalistRegistrationEnd" class="control-label"></label>
+                @Html.TextBoxFor(model => model.JournalistRegistrationEnd, new { @class = "datepicker" })
+                <span asp-validation-for="JournalistRegistrationEnd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JournalistUploadFotoDeadline" class="control-label"></label>
+                @Html.TextBoxFor(model => model.JournalistUploadFotoDeadline, new { @class = "datepicker" })
+                <span asp-validation-for="JournalistUploadFotoDeadline" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SelectedSeasonId" class="control-label"></label>
+                @Html.DropDownListFor(model => model.SelectedSeasonId, Model.SeasonItems)
+                <span asp-validation-for="SelectedSeasonId" class="text-danger"></span>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink($"Back to {Model.CompetitionName}", "Details", "Competition", new { id = Model.CompetitionId },new {@class="button" })
+</div>
+
+<link href="~/lib/jquery-datetimepicker/jquery.datetimepicker.css" rel="stylesheet" />
+@section Scripts {
+    <script src="~/lib/jquery-datetimepicker/build/jquery.datetimepicker.full.js"></script>
+    <script>
+            $(function () {
+                $(".datepicker").datetimepicker({
+                    changeYear: true,
+                    changeMonth: true,
+                    minDate: new Date(@DateTime.Today.Year,@DateTime.Today.Month-1,@DateTime.Today.Day),
+                    lang: 'cs',
+                    formatTime:'H:i',
+                    formatDate: 'd.m.Y',
+                    format: "d.m.Y H:i",
+                    defaultTime: '10:00',
+                    step: 60,
+                });
+
+            });
+    </script>
+}

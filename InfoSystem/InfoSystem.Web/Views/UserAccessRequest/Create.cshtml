@@ -1,0 +1,53 @@
+﻿@model InfoSystem.Web.Models.UserAccessRequest.UserAccessRequestCreateModel
+
+@{
+    ViewData["Title"] = "Create user access request";
+    Layout = "~/Views/Shared/_SubpageLayout.cshtml";
+}
+
+<h2>Vytvoření žádosti o přístup</h2>
+<h5>Create User Access Request</h5>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Username" class="control-label"></label>
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CallNumber" class="control-label"></label>
+                <input asp-for="CallNumber" class="form-control" />
+                <span asp-validation-for="CallNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Redaction" class="control-label"></label>
+                <input asp-for="Redaction" class="form-control" />
+                <span asp-validation-for="Redaction" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Note" class="control-label"></label>
+                <input asp-for="Note" class="form-control" />
+                <span asp-validation-for="Note" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @Html.CheckBoxFor(m => Model.AgreeTerms, new { id = "AgreeTerms", @checked = "checked" })
+                <label asp-for="AgreeTerms" class="control-label"></label>
+                <a target="_blank" href="~/documents/Terms.pdf">Read</a>
+                <br />
+                @Html.ValidationMessageFor(model => model.AgreeTerms, "", new { @class = "text-danger" })
+                @Html.HiddenFor(x => Model.isTrue)
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="button special" />
+            </div>
+        </form>
+    </div>
+</div>
+

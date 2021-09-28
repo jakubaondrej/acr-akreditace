@@ -1,0 +1,205 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+.galery-row {
+    content: "";
+    display: table;
+    clear: both;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.responsive_gallery {
+    width: 100%;
+    margin-bottom: 6px;
+    position: center;
+}
+
+@media only screen and (min-width: 500px) {
+    .responsive_gallery {
+        float: left;
+        width: 49%;
+    }
+    @media only screen and (max-width: 739px) {
+        .responsive_gallery:nth-of-type(odd) {
+            margin-right: 2%;
+        }
+    }
+   
+}
+
+
+@media only screen and (min-width: 739px) {
+    .responsive_gallery {
+        width: 23%;
+        margin-right: 1%;
+        margin-left: 1%;
+    }       
+}
+
+.responsive_gallery .nazev {
+    padding: 19px;
+    text-align: center;
+}
+
+.responsive_gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.fill {
+    object-fit: fill;
+}
+
+.contain {
+    object-fit: contain;
+}
+
+.cover {
+    object-fit: cover;
+}
+
+.scale-down {
+    object-fit: scale-down;
+}
+
+.none {
+    object-fit: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div.galery-selection {
+    border: 1px solid #ccc;
+}
+
+    div.galery-selection:hover {
+        border: 1px solid #777;
+    }
+
+input.button {
+    margin-top: 1em;
+}
+
+option {
+    background-color: rgb(0, 0, 0);
+}
+
+@media only screen and (max-width: 571px) {
+    #header .logo {
+        width: 70%;
+        text-wrap: inherit;
+        text-align: left;
+        height: 3em;
+        line-height: 1.5em;
+    }
+}
+
+.popup {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(50,0,0, 0.6);
+}
+
+.popup-container {
+    position: relative;
+    width: 90%;
+    max-width: 400px;
+    margin: 4em auto;
+    background: #000;
+    text-align: center;
+    top: 20%;
+}
+.hidden {
+    visibility: hidden;
+}
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.login-row {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+.margin-top30{
+    margin-top:30px;
+}
